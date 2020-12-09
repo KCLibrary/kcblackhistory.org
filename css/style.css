@@ -4,16 +4,17 @@ background-repeat: repeat-x;
 }
 
 #homefeature {
- background-image: url("/images/nypl.digitalcollections.510d47e2-08bb-a3d9-e040-e00a18064a99.001.w.jpg");
+ background-image: url("/images/ymca-1000.jpg");
  background-repeat: no-repeat;
  min-height:800px;
  display:block;
  margin: 0 auto;
- width:100%
+ width:100%;
 }
  #announcement {
   background-color:#8D1C26;
-  opacity:0.6
-  padding: 2%;
+  opacity:0.4;
+  padding: 4%;
+  margin: 1% 4%;
 }
   

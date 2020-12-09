@@ -5,4 +5,5 @@ background-repeat: repeat-x;
 
 #homefeature {
  background-image: url("/images/nypl.digitalcollections.510d47e2-08bb-a3d9-e040-e00a18064a99.001.w.jpg");
+ min-height:800px;
 }

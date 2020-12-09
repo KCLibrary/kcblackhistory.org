@@ -11,3 +11,9 @@ background-repeat: repeat-x;
  margin: 0 auto;
  width:100%
 }
+ #announcement {
+  background-color:#8D1C26;
+  opacity:0.6
+  padding: 2%;
+}
+  

@@ -1,10 +1,5 @@
 .band {
-border-image: url(/images/kc_black_history_band_lg.jpg);
- border-top:0;
- border-left:0;
- border-right:0;
- border-image-height:15px;
- border-image-repeat:repeat;
+background-image: url('/images/kc_black_history_band_lg.jpg');
 }
 
 #homefeature {

@@ -1,6 +1,5 @@
 .band {
-background-image: url("/images/kc_black_history_band_lg.jpg");
-background-repeat: repeat-x;
+border-image: url("/images/kc_black_history_band_lg.jpg") 20px 0;
 }
 
 #homefeature {

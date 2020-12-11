@@ -13,5 +13,5 @@ background-image: url('/images/kc_black_history_band_lg.jpg');
   transform: translate(-50%, -50%);
 }
 .carousel .carousel-item {
-  height: 700px;
+  width:60%;
 }
